@@ -1,0 +1,20 @@
+ADMIN:
+
+username: admin
+password: admin
+
+=============================================
+
+STAFF:
+
+username: staff
+password: staff
+
+============================================
+
+GUEST:
+
+username: guest
+password: guest	
+
+
